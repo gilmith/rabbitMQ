@@ -1,0 +1,5 @@
+###Propiedades de conexion del rabbitMQ
+servidor=localhost
+puerto=5672
+usuario=guest
+clave=guest
